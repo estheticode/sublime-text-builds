@@ -15,7 +15,7 @@
 * Nim
 * Scala
 * Lua
-# Prerequisites
+# Prerequisite
 ## Console-exec
 
 Install [Console-Exec](https://packagecontrol.io/packages/Console%20Exec) using [Sublime Package Control](https://packagecontrol.io).
